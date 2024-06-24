@@ -1,7 +1,7 @@
 const images = [
-    '/image1.png', // Update these paths
-    '/image2.png',
-    '/image3.png'
+    'image1.png', // Update these paths
+    'image2.png',
+    'image3.png'
 ];
 
 let gridItems = Array.from(document.querySelectorAll('.grid-item'));
